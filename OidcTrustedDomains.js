@@ -5,7 +5,7 @@
 // Domains used by OIDC server must be also declared here
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 const trustedDomains = {
-    default: ['http://localhost:8085/auth','http://www.smilebat.xyz'],
+    default: ['http://localhost:8085/auth','http://www.smilebat.xyz','https://slearntribe.github.io'],
     // config_classic: ['https://demo.duendesoftware.com'],
     // config_without_silent_login: ['https://demo.duendesoftware.com'],
     // config_without_refresh_token: ['https://demo.duendesoftware.com'],
